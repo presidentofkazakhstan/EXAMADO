@@ -1,0 +1,13 @@
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\bin\Debug\ExamADO.NET.exe.config
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\bin\Debug\ExamADO.NET.exe
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\bin\Debug\ExamADO.NET.pdb
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\bin\Debug\EntityFramework.dll
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\bin\Debug\EntityFramework.xml
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\obj\Debug\ExamADO.NET.csprojAssemblyReference.cache
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\obj\Debug\ExamADO.NET.csproj.CoreCompileInputs.cache
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\obj\Debug\ExamADO.NET.csproj.CopyComplete
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\obj\Debug\ExamADO.NET.exe
+c:\users\тынышбаева.corp\source\repos\ExamADO.NET\ExamADO.NET\obj\Debug\ExamADO.NET.pdb
